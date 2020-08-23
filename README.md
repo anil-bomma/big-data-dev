@@ -12,4 +12,4 @@ I want to see my self as a full-stack developer with a piece of good knowledge a
 GitHub: [https://github.com/anil-bomma](https://github.com/anil-bomma)
 
 
-![profile-photo](profile.jpg)
+![profile-photo](profile-photo.jpg)
